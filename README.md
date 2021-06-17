@@ -73,10 +73,4 @@ All contributions are welcome. Please refer [CONTRIBUTING.md](https://github.com
 <br>
 
 # Credits: 
-This Project is inspired from
-[Project link](https://github.com/bnb/bitandbang)
-
-<br>
-
-<br>
 Thank you for showing Interest! Do contribute and support it by giving a star to ProfileCard <img style="position:relative;top:6px;" src="https://user-images.githubusercontent.com/34159717/120114199-a35ffa80-c19b-11eb-9143-fc1fd662a87e.jpg" alt="card-Image">
